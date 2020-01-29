@@ -1,0 +1,4 @@
+C:\Users\Lexicon\source\repos\Website\Website\obj\Debug\netcoreapp3.0\Website.csprojAssemblyReference.cache
+C:\Users\Lexicon\source\repos\Website\Website\obj\Debug\netcoreapp3.0\Website.AssemblyInfoInputs.cache
+C:\Users\Lexicon\source\repos\Website\Website\obj\Debug\netcoreapp3.0\Website.AssemblyInfo.cs
+C:\Users\Lexicon\source\repos\Website\Website\bin\Debug\netcoreapp3.0\Website.exe
